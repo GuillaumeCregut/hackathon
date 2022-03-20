@@ -1,0 +1,26 @@
+.photoTaken {
+    height: 40vw;
+    background-color: lightgray;
+    border-radius: 5px;
+}
+
+video {
+    height: 40vw;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+#inner-circle {
+    background-color: var(--green-500);
+    left: 28px;
+    top: 28px;
+    height: 18px;
+    width: 18px;
+}
+
+#outer-circle {
+    left: -15px;
+    top : 50px;
+    height: 30px;
+    width: 30px;
+}

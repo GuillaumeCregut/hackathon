@@ -1,0 +1,36 @@
+.FormSignal {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 50px;
+}
+
+.FormSignalPhoto {
+  width: 100%;
+  font-size: 0.7em;
+}
+
+.FormSignalLabel {
+  margin-bottom: 10px;
+  width: 100%;
+  font-size: 0.7em;
+}
+
+.PhotoInput {
+  visibility: hidden;
+}
+
+.FormSignalTextAera {
+  margin: 10px;
+  width: 276px;
+  min-height: 4rem;
+}
+
+.FormSignalButton {
+  background-color: var(--blue-500);
+  color: white;
+  width: 100px;
+  height: 40px;
+  border-radius: 1px;
+}
